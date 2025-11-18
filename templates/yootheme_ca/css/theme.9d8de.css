@@ -8110,6 +8110,10 @@ svg.uk-text-muted {
     max-width: none
 }
 
+.uk-preserve-width {
+    padding-top: 10px;
+}
+
 .uk-responsive-height,
 .uk-responsive-width {
     box-sizing: border-box
