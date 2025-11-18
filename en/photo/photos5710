@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.campadventure.de</link>
+		<lastBuildDate>Mon, 17 Nov 2025 05:00:00 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.campadventure.de/en/photo/photos?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>img_20240729_183303 marian</title>
+			<link>https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</link>
+			<guid isPermaLink="true">https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</guid>
+			<description><![CDATA[<div><a href="http://https:/www.campadventure.de/en/photo/photos/204-2024/335-esa-2024"><img src="https://www.campadventure.de/images/phocagallery/2024/ESA_2024/thumbs/phoca_thumb_m_img_20240729_183303 marian.jpg" border="0" /></a></div>]]></description>
+			<category>ESA 2024</category>
+			<pubDate>Thu, 19 Dec 2024 02:12:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>img_20240731_161556 marian</title>
+			<link>https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</link>
+			<guid isPermaLink="true">https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</guid>
+			<description><![CDATA[<div><a href="http://https:/www.campadventure.de/en/photo/photos/204-2024/335-esa-2024"><img src="https://www.campadventure.de/images/phocagallery/2024/ESA_2024/thumbs/phoca_thumb_m_img_20240731_161556 marian.jpg" border="0" /></a></div>]]></description>
+			<category>ESA 2024</category>
+			<pubDate>Thu, 19 Dec 2024 02:12:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>img_20240801_131248 marian</title>
+			<link>https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</link>
+			<guid isPermaLink="true">https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</guid>
+			<description><![CDATA[<div><a href="http://https:/www.campadventure.de/en/photo/photos/204-2024/335-esa-2024"><img src="https://www.campadventure.de/images/phocagallery/2024/ESA_2024/thumbs/phoca_thumb_m_img_20240801_131248 marian.jpg" border="0" /></a></div>]]></description>
+			<category>ESA 2024</category>
+			<pubDate>Thu, 19 Dec 2024 02:12:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>libreria-acqua-alta-venice - anay siram</title>
+			<link>https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</link>
+			<guid isPermaLink="true">https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</guid>
+			<description><![CDATA[<div><a href="http://https:/www.campadventure.de/en/photo/photos/204-2024/335-esa-2024"><img src="https://www.campadventure.de/images/phocagallery/2024/ESA_2024/thumbs/phoca_thumb_m_libreria-acqua-alta-venice - anay siram.jpg" border="0" /></a></div>]]></description>
+			<category>ESA 2024</category>
+			<pubDate>Thu, 19 Dec 2024 02:12:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>screenshot_20240802_220550_gallery</title>
+			<link>https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</link>
+			<guid isPermaLink="true">https://www.campadventure.de/en/photo/photos/204-2024/335-esa-2024</guid>
+			<description><![CDATA[<div><a href="http://https:/www.campadventure.de/en/photo/photos/204-2024/335-esa-2024"><img src="https://www.campadventure.de/images/phocagallery/2024/ESA_2024/thumbs/phoca_thumb_m_screenshot_20240802_220550_gallery.jpg" border="0" /></a></div>]]></description>
+			<category>ESA 2024</category>
+			<pubDate>Thu, 19 Dec 2024 02:12:27 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
