@@ -64,52 +64,115 @@
 }
 @font-face {
     font-family: 'Raleway';
-    font-style: italic;
-    font-weight: 100;
-    src: url(/templates/yootheme/fonts/Raleway-ThinItalic.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 100; /* Thin */
+    src: url(../../yootheme/fonts/Raleway-Thin.woff2) format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 200; /* ExtraLight */
+    src: url(../../yootheme/fonts/Raleway-ExtraLight.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300; /* Light */
+    src: url(../../yootheme/fonts/Raleway-Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400; /* Regular */
+    src: url(../../yootheme/fonts/Raleway-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500; /* Medium */
+    src: url(../../yootheme/fonts/Raleway-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600; /* SemiBold */
+    src: url(../../yootheme/fonts/Raleway-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700; /* Bold */
+    src: url(../../yootheme/fonts/Raleway-Bold.woff2) format('woff2');
+}
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 200;
-    src: url(/templates/yootheme/fonts/Raleway-ExtraLightItalic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 100; /* Thin Italic */
+    src: url(../../yootheme/fonts/Raleway-ThinItalic.woff2) format('woff2');
 }
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 300;
-    src: url(/templates/yootheme/fonts/Raleway-LightItalic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 200; /* ExtraLight Italic */
+    src: url(../../yootheme/fonts/Raleway-ExtraLightItalic.woff2) format('woff2');
 }
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 400;
-    src: url(/templates/yootheme/fonts/Raleway-Italic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 300; /* Light Italic */
+    src: url(../../yootheme/fonts/Raleway-LightItalic.woff2) format('woff2');
 }
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 500;
-    src: url(/templates/yootheme/fonts/Raleway-MediumItalic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 400; /* Regular Italic */
+    src: url(../../yootheme/fonts/Raleway-RegularItalic.woff2) format('woff2');
 }
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 600;
-    src: url(/templates/yootheme/fonts/Raleway-SemiBoldItalic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 500; /* Medium Italic */
+    src: url(../../yootheme/fonts/Raleway-MediumItalic.woff2) format('woff2');
 }
+
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    font-weight: 700;
-    src: url(/templates/yootheme/fonts/Raleway-BoldItalic.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-weight: 600; /* SemiBold Italic */
+    src: url(../../yootheme/fonts/Raleway-SemiBoldItalic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 700; /* Bold Italic */
+    src: url(../../yootheme/fonts/Raleway-BoldItalic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800; /* ExtraBold */
+    src: url(../../yootheme/fonts/Raleway-ExtraBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900; /* Black */
+    src: url(../../yootheme/fonts/Raleway-Black.woff2) format('woff2');
 }
 
 
